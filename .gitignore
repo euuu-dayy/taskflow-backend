@@ -1,3 +1,12 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+application-local.properties
+application-secret.properties
+
+# Spring Boot / Maven
 HELP.md
 target/
 .mvn/wrapper/maven-wrapper.jar
